@@ -24,6 +24,11 @@ Today we are learning Github and Markdown. Then, computer setup.
 ### Image from web
 ![cup](https://i.ebayimg.com/images/g/Yw4AAOSwCLNjqa~l/s-l1600.jpg)
 
+### Image from the folder
+![bear](./Animals/bear.png)
+
+![dog](./Animals/dogs/dog-1.png)
+
 ## Code
 
 ### Code line
