@@ -16,3 +16,7 @@ Today we are learning Github and Markdown. Then, computer setup.
 
 ### Link a Page.
 [Spiced Academy](https://www.spiced-academy.com/en)
+
+## Image
+### Image in repo.
+![Paris Street View][./StreetView.HEIC]
