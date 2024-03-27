@@ -34,3 +34,7 @@ This is how we write code in-line `let name = "Caraway" `
 let cohort = "Caraway";
 let loveMd = true;
 ```
+
+```
+This is a code block
+```
