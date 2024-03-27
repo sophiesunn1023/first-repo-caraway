@@ -19,4 +19,6 @@ Today we are learning Github and Markdown. Then, computer setup.
 
 ## Image
 ### Image in repo.
-![Paris Street View][./StreetView.HEIC]
+![flower][./flower.jpg]
+
+
