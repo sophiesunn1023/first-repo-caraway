@@ -19,6 +19,9 @@ Today we are learning Github and Markdown. Then, computer setup.
 
 ## Image
 ### Image in repo.
-![flower][./flower.jpg]
+![flower](./flower.jpg)
 
+## Code
 
+### Code line
+This is how we write code in-line `let name = "Caraway" `
