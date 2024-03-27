@@ -13,3 +13,6 @@ Today we are learning Github and Markdown. Then, computer setup.
 1. Item 1
 2. Item 2
 3. Item 3
+
+### Link a Page.
+[Spiced Academy](https://www.spiced-academy.com/en)
