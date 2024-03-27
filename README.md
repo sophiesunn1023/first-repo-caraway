@@ -21,7 +21,16 @@ Today we are learning Github and Markdown. Then, computer setup.
 ### Image in repo.
 ![flower](./flower.jpg)
 
+### Image from web
+![cup](https://i.ebayimg.com/images/g/Yw4AAOSwCLNjqa~l/s-l1600.jpg)
+
 ## Code
 
 ### Code line
 This is how we write code in-line `let name = "Caraway" `
+
+### Code block
+```js
+let cohort = "Caraway";
+let loveMd = true;
+```
